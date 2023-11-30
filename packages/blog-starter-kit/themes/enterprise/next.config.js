@@ -47,7 +47,7 @@ const config = {
       {
         source: "/blog/:path*",
         destination: "https://starter-kit-ebon.vercel.app/blog/:path*",
-      },
+      }
 		];
 	},
 };
